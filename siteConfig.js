@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://spa5.org", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://dianci.org", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "spa5.org", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "dianci.org", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "spa5.org", // This allows an alternative site description for meta data for pages.
+    "dianci.org", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "spa5.org", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "dianci.org", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "spa5.org",
+    title: "dianci.org",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://spa5.org/",
+        url: "https://dianci.org/",
       },
       {
         label: "יצירת קשר",
-        url: "https://spa5.org/contact",
+        url: "https://dianci.org/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://spa5.org/",
+        url: "https://dianci.org/",
       },
       {
         label: "Sitemap",
-        url: "https://spa5.org/sitemap.xml",
+        url: "https://dianci.org/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://spa5.org/contact",
+        url: "https://dianci.org/contact",
       },
      
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "spa5.org",
+    title: "dianci.org",
     description:
-      "spa5.org",
+      "dianci.org",
   },
   twitterCard: {
     title: "",
@@ -88,9 +88,9 @@ module.exports = {
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "spa5.org",
+  siteTitle: "dianci.org",
   siteDescription:
-    "spa5.org",
+    "dianci.org",
   language: "he",
   logoUrl: "",
   iconUrl: "",
