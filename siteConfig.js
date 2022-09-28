@@ -49,6 +49,13 @@ module.exports = {
         label: "יצירת קשר",
         url: "https://dianci.org/contact",
       },
+      
+            
+       {
+        label: "קרסו נדל ן מאיה",
+        url: "https://maya.tase.co.il/company/2384",
+      },
+      
      
     ],
   },
